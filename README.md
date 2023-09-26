@@ -4,4 +4,4 @@
 ![Spring Security](spring_security.png "Spring Security")
 
 
-### Eclipse ile projeyi içe aktarmanın yolu: File > Import > Maven > Existing Maven Project Browse > İlgili klasörün seçimi > Tamam!
+#### Eclipse ile projeyi içe aktarmanın yolu: File > Import > Maven > Existing Maven Project Browse > Select directory.
